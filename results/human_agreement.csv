@@ -1,0 +1,15 @@
+condition,annotator,n,label_pct,rating_pct,label_rank,rating_rank
+E: no context,baseline,20,75.0,30.0,,
+E: no context,woman / left,20,75.0,25.0,3.0,2.0
+E: no context,woman / center,20,80.0,30.0,2.0,1.0
+E: no context,woman / right,20,85.0,30.0,1.0,1.0
+E: no context,man / left,20,80.0,25.0,2.0,2.0
+E: no context,man / center,20,80.0,25.0,2.0,2.0
+E: no context,man / right,20,80.0,30.0,2.0,1.0
+D: with context,baseline,20,70.0,20.0,,
+D: with context,woman / left,20,70.0,25.0,1.0,1.0
+D: with context,woman / center,20,70.0,25.0,1.0,1.0
+D: with context,woman / right,20,70.0,20.0,1.0,2.0
+D: with context,man / left,20,70.0,20.0,1.0,2.0
+D: with context,man / center,20,70.0,20.0,1.0,2.0
+D: with context,man / right,20,70.0,20.0,1.0,2.0

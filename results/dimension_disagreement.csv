@@ -1,0 +1,5 @@
+condition,dimension,pairs,label_disagreement_pct,rating_disagreement_pct
+E: no context,gender,3,3.3333333333333335,5.0
+E: no context,politics,6,3.3333333333333335,9.166666666666666
+D: with context,gender,3,0.0,3.3333333333333335
+D: with context,politics,6,0.0,1.6666666666666667

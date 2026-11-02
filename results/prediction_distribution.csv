@@ -1,0 +1,15 @@
+context,annotator,toxic_items,distinct_ratings,distinct_labels
+with_context,baseline,16,3,2
+with_context,woman / left,16,3,2
+with_context,woman / center,16,3,2
+with_context,woman / right,16,3,2
+with_context,man / left,16,3,2
+with_context,man / center,16,3,2
+with_context,man / right,16,3,2
+no_context,baseline,9,5,2
+no_context,woman / left,7,4,2
+no_context,woman / center,8,4,2
+no_context,woman / right,9,5,2
+no_context,man / left,8,5,2
+no_context,man / center,8,4,2
+no_context,man / right,8,5,2

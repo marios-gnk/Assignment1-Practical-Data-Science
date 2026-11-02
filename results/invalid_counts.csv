@@ -1,0 +1,15 @@
+annotator,context,total,invalid_rating,invalid_evidence,invalid_format,invalid_answer
+baseline,with_context,20,0,4,0,4
+woman / left,with_context,20,0,8,0,8
+woman / center,with_context,20,0,8,0,8
+woman / right,with_context,20,0,7,0,7
+man / left,with_context,20,0,8,0,8
+man / center,with_context,20,0,8,0,8
+man / right,with_context,20,0,7,0,7
+baseline,no_context,20,0,14,0,14
+woman / left,no_context,20,0,16,0,16
+woman / center,no_context,20,0,18,0,18
+woman / right,no_context,20,0,16,0,16
+man / left,no_context,20,0,16,0,16
+man / center,no_context,20,0,16,0,16
+man / right,no_context,20,0,16,0,16

@@ -1,0 +1,5 @@
+condition,measure,pairs,mean_pct
+E: no context,label,21,95.71428571428571
+E: no context,rating,21,90.71428571428571
+D: with context,label,21,100.0
+D: with context,rating,21,96.19047619047619

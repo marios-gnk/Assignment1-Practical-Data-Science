@@ -1,0 +1,8 @@
+Recovered from the executed outputs in notebook.ipynb; model inference was not rerun.
+Annotations, raw responses, evidence, validity and actual system prompts were extracted from full HTML tables.
+Conversation text was extracted from annotation context and checked against all 20 displayed conversations.
+Configuration and participant selection were reconstructed from the executed cell source and fixed seeds.
+Conversation entries retain name and text; per-reply internal generation prompts were not present in the displayed output and are not reconstructed.
+CSV inputs were copied from local items/ and checked against the displayed tables.
+
+Revalidation: original_valid and original_error retain the initial strict checks. Rating validity is now separate from evidence/format validity; normalization is explicit. Raw model responses and prompts are unchanged.

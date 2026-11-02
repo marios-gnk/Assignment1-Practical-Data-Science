@@ -1,0 +1,8 @@
+annotator,n,label_pct,rating_pct,higher,lower,same,civil_to_toxic,toxic_to_civil
+baseline,20,65.0,35.0,12,1,7,7,0
+woman / left,20,55.00000000000001,25.0,14,1,5,9,0
+woman / center,20,60.0,25.0,14,1,5,8,0
+woman / right,20,65.0,35.0,12,1,7,7,0
+man / left,20,60.0,30.0,13,1,6,8,0
+man / center,20,60.0,25.0,14,1,5,8,0
+man / right,20,60.0,35.0,12,1,7,8,0
